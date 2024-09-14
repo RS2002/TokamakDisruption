@@ -7,15 +7,16 @@ main:
   - name: Gallery
     url: gallery
     weight: 10
-  - name: News
-    url: post
-    weight: 20
   - name: People
     url: people
+    weight: 20
+  - name: News
+    url: news
     weight: 30
+  - name: Albums
+    url: album
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
-  - name: Contact
-    url: contact
     weight: 50
+
