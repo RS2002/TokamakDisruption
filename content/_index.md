@@ -10,7 +10,7 @@ sections:
       title: |
         Tokamak Disruption
       image:
-        filename: welcome.jpg
+        filename: logo.jpg
       text: |
         <br>
         
