@@ -14,26 +14,15 @@ sections:
       text: |
         <br>
         
-        The **Tokamak Disruption** is a band from Hong Kong, formed in August 2024. They primarily focus on grindcore while also incorporating elements from other heavy music genres such as melodic death metal, deathcore, and nu metal. <br> If you are interested in collaborating with us — whether in music or academia (we are particularly keen on Music Information Retrieval) — please feel free to contact us via email at zzhaock@connect.ust.hk . We also welcome any performance opportunities, particularly in Hong Kong and Guangdong. 
+        The **Tokamak Disruption** is a band from Hong Kong, formed in August 2024. They primarily focus on grindcore while also incorporating elements from other heavy music genres such as melodic death metal, deathcore, and nu metal. 
   
-  - block: markdown
+  - block: hero
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: logo2.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+      image:
+        filename: logo2.png
+      text: |
+        <br>
+        If you are interested in collaborating with us — whether in music or academia (we are particularly keen on Music Information Retrieval) — please feel free to contact us via email at zzhaock@connect.ust.hk . We also welcome any performance opportunities, particularly in Hong Kong and Guangdong. 
 
   - block: collection
     content:
