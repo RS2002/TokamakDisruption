@@ -13,36 +13,22 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 2024-08-30-3.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Performance in HKUST
+        content: ''
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: 2024-08-30-9.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+      
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
