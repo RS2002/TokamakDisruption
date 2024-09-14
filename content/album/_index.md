@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Albums
 
 # Listing view
 view: citation
