@@ -20,7 +20,7 @@ sections:
       image:
         filename: logo2.png
       text: |
-        If you are interested in collaborating with us — whether in music or academia (we are particularly keen on Music Information Retrieval) — please feel free to contact us via email at ** zzhaock@connect.ust.hk** . We also welcome any performance opportunities, particularly in Hong Kong and Guangdong. 
+        If you are interested in collaborating with us — whether in music or academia (we are particularly keen on Music Information Retrieval) — please feel free to contact us via email at **zzhaock@connect.ust.hk** . We also welcome any performance opportunities, particularly in Hong Kong and Guangdong. 
 
   - block: collection
     content:
