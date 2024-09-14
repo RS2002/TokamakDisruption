@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Tokamak Disruption
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Tokamak Disruption** is a band from Hong Kong, formed in August 2024. They primarily focus on grindcore while also incorporating elements from other heavy music genres such as melodic death metal, deathcore, and nu metal.
   
   - block: collection
     content:
@@ -56,18 +55,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+
 
   - block: markdown
     content:
