@@ -1,44 +1,60 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Longino
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Zijian
+last_name: Zhao
 
 # Is this the primary user of the site?
 superuser: true
 
-# Optional external URL for project (replaces project detail page).
-external_link: 'https://music.163.com/#/album?id=187670956'
-
 # Role/position
-role: Professor of Artificial Intelligence
+role: Singer & Rhythm Guitar
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: HKUST
+    url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Longino is a socially anxious singer and guitarist. He must rely on alcohol to let himself go in stage. Without too many music skills, he just performs by the anger to the world.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Melodic Death Metal
+  - Black Metal
+  - Deathcore
+  - Post Hardcore
+  - Alternative Rock
+  - Punk
+  - Grunge
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Singer & Rhythm Guitar
+      institution: Tokamak Disruption
+      year: 2024~
+    - course: Singer & Rhythm Guitar
+      institution: Strike
+      year: 2024~
+    - course: Singer & Rhythm Guitar
+      institution: EIII
+      year: 2024
+    - course: Singer & Rhythm Guitar
+      institution: NEWS
+      year: 2021~2022
+    - course: Rhythm Guitar & Bass (temporary) & Singer (temporary)
+      institution: Rights of Lethe
+      year: 2021~2023
+    - course: Lead Guitar & Keyboard (temporary)
+      institution: Remote Sensing
+      year: 2020~2021
+    - course: Rhythm Guitar
+      institution: Ghost
+      year: 2017~2018
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,24 +63,20 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'zzhaock@connect.ust.hk'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=XkA3qCcAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://github.com/RS2002
+  - icon: house
+    icon_pack: fas
+    link: https://zijianzhao.netlify.app/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zzhaock@connect.ust.hk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,6 +87,8 @@ user_groups:
   - Members
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+#### Favorite bands
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- Metal/Core: 霜冻前夜, 郁, 虚极, 黑麒, 冻结的月亮, Lamb of God, Suicide Silence, Architects, While She Sleeps, Slaughter To Prevail
+- Rock: 谢天笑, 梅卡德尔, 疯医, 假假條, 丝绒公路 
+
