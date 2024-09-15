@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Dian
+title: Rights of Lethe
 
 # Full name (for SEO)
-first_name: Dian
-last_name: Jin
+first_name: 
+last_name: 
 
 # Username (this should match the folder name)
 authors:
-  - Dian
+  - Rights of Lethe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lead Guitar
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: PolyU
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dian plays the guitar. Very vegetable.
+bio: 
 
 # education:
 #   courses:
@@ -41,12 +41,9 @@ bio: Dian plays the guitar. Very vegetable.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=hm3cFjsAAAAJ
-  - icon: github
+  - icon: soundcloud
     icon_pack: fab
-    link: https://github.com/CLaSLoVe
+    link: https://music.163.com/#/artist?id=52253597
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,19 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Members
+  - Friendly Link
 ---
 
-Dian is a socially anxious lead guitar. He likes anime. His guitar skill is vegetable, and he mostly relies on his bandmates to carry him. This is the first band he's ever joined.
-
-
-#### Music interests
-- Math rock
-- Progressive metalcore
-- Deathcore. 
-
-
-#### Favorite bands
-- Kadinja
-- Animals as leaders
-- Polyphia
+Rights of Lethe (2021-2023) was a metal band based in the Guangzhou Higher Education Mega Center. The band performed at numerous livehouses in Guangzhou and underwent several lineup changes, totaling over ten members. Unfortunately, they left behind only one cover song, which can be found on [Rights of Lethe](https://music.163.com/#/artist?id=52435898).
