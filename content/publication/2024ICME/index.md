@@ -6,7 +6,7 @@ title: 'PianoBART: Symbolic Piano Music Generation and Understanding with Large-
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xiao Liang
-  - admin
+  - Zijian (Longino) Zhao
   - Weichao Zeng
   - Yutong He
   - Fupeng He

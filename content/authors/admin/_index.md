@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: true
 
 # Role/position
-role: Singer & Rhythm Guitar
+role: Vocal & Rhythm Guitar
 
 # Organizations/Affiliations
 organizations:
@@ -32,19 +32,19 @@ interests:
 education:
   courses:
     - course: Tokamak Disruption
-      institution: Singer & Rhythm Guitar
+      institution: Vocal & Rhythm Guitar
       year: 2024~
     - course: Strike 
-      institution: Singer & Rhythm Guitar
+      institution: Vocal & Rhythm Guitar
       year: 2024~
     - course: EIII
-      institution: Singer & Rhythm Guitar
+      institution: Vocal & Rhythm Guitar
       year: 2024
     - course: NEWS
-      institution: Singer & Rhythm Guitar
+      institution: Vocal & Rhythm Guitar
       year: 2021~2022
     - course: Rights of Lethe
-      institution: Rhythm Guitar & Bass (temporary) & Singer (temporary)
+      institution: Rhythm Guitar & Bass (temporary) & Vocal (temporary)
       year: 2021~2023
     - course: Remote Sensing
       institution: Lead Guitar & Keyboard (temporary)
