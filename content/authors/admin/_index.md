@@ -9,6 +9,9 @@ last_name: Bighetti
 # Is this the primary user of the site?
 superuser: true
 
+# Optional external URL for project (replaces project detail page).
+external_link: 'https://music.163.com/#/album?id=187670956'
+
 # Role/position
 role: Professor of Artificial Intelligence
 
