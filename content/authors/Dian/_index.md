@@ -22,12 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My music interests include math rock, progressive metalcore, deathcore. 
-
-interests:
-  - Kadinja
-  - Animals as leaders
-  - Polyphia
+bio: Dian plays the guitar. Very vegetable.
 
 # education:
 #   courses:
@@ -67,4 +62,16 @@ user_groups:
   - Members
 ---
 
+Dian is a socially anxious lead guitar. He likes anime. His guitar skill is vegetable, and he mostly relies on his bandmates to carry him. This is the first band he's ever joined.
 
+
+#### Music interests
+- Math rock
+- Progressive metalcore
+- Deathcore. 
+
+
+#### Favorite bands
+- Kadinja
+- Animals as leaders
+- Polyphia
