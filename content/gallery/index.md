@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: 2024-08-30-3.jpg
+            filename: 2024-08-30-4.jpg
             filters:
               brightness: 0.7
           position: right
