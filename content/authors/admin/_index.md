@@ -31,26 +31,26 @@ interests:
 
 education:
   courses:
-    - course: Singer & Rhythm Guitar
-      institution: Tokamak Disruption
+    - course: Tokamak Disruption
+      institution: Singer & Rhythm Guitar
       year: 2024~
-    - course: Singer & Rhythm Guitar
-      institution: Strike
+    - course: Strike 
+      institution: Singer & Rhythm Guitar
       year: 2024~
-    - course: Singer & Rhythm Guitar
-      institution: EIII
+    - course: EIII
+      institution: Singer & Rhythm Guitar
       year: 2024
-    - course: Singer & Rhythm Guitar
-      institution: NEWS
+    - course: NEWS
+      institution: Singer & Rhythm Guitar
       year: 2021~2022
-    - course: Rhythm Guitar & Bass (temporary) & Singer (temporary)
-      institution: Rights of Lethe
+    - course: Rights of Lethe
+      institution: Rhythm Guitar & Bass (temporary) & Singer (temporary)
       year: 2021~2023
-    - course: Lead Guitar & Keyboard (temporary)
-      institution: Remote Sensing
+    - course: Remote Sensing
+      institution: Lead Guitar & Keyboard (temporary)
       year: 2020~2021
-    - course: Rhythm Guitar
-      institution: Ghost
+    - course: Ghost
+      institution: Rhythm Guitar
       year: 2017~2018
 
 
@@ -86,6 +86,8 @@ highlight_name: false
 user_groups:
   - Members
 ---
+
+Longino is a socially anxious singer and guitarist. He must rely on alcohol to let himself go in stage. Without too many music skills, he just performs by the anger to the world.
 
 #### Favorite bands
 
