@@ -38,7 +38,7 @@ education:
       institution: Vocal & Rhythm Guitar
       year: 2024~
     - course: EIII
-      institution: Vocal & Rhythm Guitar
+      institution: Vocal & Guitar
       year: 2024
     - course: NEWS
       institution: Vocal & Rhythm Guitar
