@@ -54,9 +54,9 @@ url_code: 'https://github.com/RS2002/PianoBart'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: projects/PianoBART.pptx
+url_slides: 'https://zijianzhao.netlify.app/projects/PianoBART.pptx'
 url_source: ''
-url_video: projects/PianoBART.wav
+url_video: 'https://zijianzhao.netlify.app/projects/PianoBART.wav'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -41,7 +41,7 @@ education:
       institution: Vocal & Guitar
       year: 2024
     - course: NEWS
-      institution: Vocal & Rhythm Guitar
+      institution: Vocal & Guitar
       year: 2021~2022
     - course: Rights of Lethe
       institution: Rhythm Guitar & Bass (temporary) & Vocal (temporary)
@@ -87,10 +87,10 @@ user_groups:
   - Members
 ---
 
-Longino is a socially anxious singer and guitarist. He must rely on alcohol to let himself go in stage. Without too many music skills, he just performs by the anger to the world.
+Longino is a socially anxious singer and guitarist. He must rely on alcohol to let himself go in stage. Without too many music skills, he just performs by the anger and hatred to the world.
 
-#### Favorite bands
+#### Favorite Bands
 
 - Metal/Core: 霜冻前夜, 郁, 虚极, 黑麒, 冻结的月亮, Lamb of God, Suicide Silence, Architects, While She Sleeps, Slaughter To Prevail
-- Rock: 谢天笑, 梅卡德尔, 疯医, 假假條, 丝绒公路 
+- Rock: 谢天笑, 梅卡德尔, 疯医, 假假條, 丝绒公路, 王宝与正午阳光, 地下婴儿
 
