@@ -90,6 +90,6 @@ Longino is a socially anxious singer and guitarist. He must rely on alcohol to l
 
 #### Favorite Bands
 
-- Metal/Core: 霜冻前夜, 郁, 虚极, 黑麒, 冻结的月亮, 噬湖, 雪沉, Lamb of God, Suicide Silence, Architects, While She Sleeps, Slaughter To Prevail
+- Metal/Core: 霜冻前夜, 郁, 虚极, 黑麒, 冻结的月亮, 噬湖, 由理生社, 雪沉, Arch Enemy, Lamb of God, Suicide Silence, Architects, While She Sleeps, Slaughter To Prevail
 - Rock: 谢天笑, 梅卡德尔, 疯医, 假假條, 丝绒公路, 王宝与正午阳光, 地下婴儿
 

@@ -1,5 +1,5 @@
 ---
-title: 'Adversarial-MidiBERT: Symbolic Music Understanding Model Based on Unbias Pre-training and Mask Fine-tuning'
+title: 'Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
