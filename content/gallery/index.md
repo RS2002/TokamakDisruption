@@ -13,12 +13,22 @@ sections:
         align: center
         background:
           image:
-            filename: 2024-08-30-4.jpg
+            filename: 2025-02-22-1.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Performance in HKUST
+      - title: New Year's Concert in Aoyin, Guangzhou
+        content: ''
+        align: left
+        background:
+          image:
+            filename: 2025-02-22-2.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Performance in HKUST, Hong Kong
         content: ''
         align: left
         background:
