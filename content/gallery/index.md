@@ -18,6 +18,26 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title: Labour Day Concert in Aoyin, Guangzhou
+        content: ''
+        align: left
+        background:
+          image:
+            filename: 2025-05-01.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Band Contest in PoolBar, Zhuhai
+        content: ''
+        align: left
+        background:
+          image:
+            filename: 2025-04-26.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: New Year's Concert in Aoyin, Guangzhou
         content: ''
         align: left

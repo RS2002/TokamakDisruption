@@ -10,9 +10,9 @@ sections:
       title: |
         Tokamak Disruption
       image:
-        filename: logo3.png
+        filename: logo4.png
       text: |
-        The Tokamak Disruption is a band from Hong Kong, formed in August 2024. We primarily focus on alternative metal while also incorporating elements from other heavy music genres such as melodic death metal and metalcore. 
+        The Tokamak Disruption is a band from Hong Kong, formed in December 2024. We primarily focus on alternative metal while also incorporating elements from other heavy music genres such as melodic death metal and metalcore. 
   
   - block: hero
     content:
