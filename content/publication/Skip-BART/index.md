@@ -47,8 +47,8 @@ featured: true
 #   url: 
 
 url_pdf: 'https://arxiv.org/abs/2506.01482'
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/RS2002/Skip-BART'
+url_dataset: 'https://zenodo.org/records/14854217?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM5MDcwY2E5LTY0MzUtNGZhZC04NzA4LTczMjNhNTZiOGZmYSIsImRhdGEiOnt9LCJyYW5kb20iOiI1YWRkZmNiMmYyOGNiYzI4ZWUxY2QwNTAyY2YxNTY4ZiJ9.0Jr6GYfyyn02F96eVpkjOtcE-MM1wt-_ctOshdNGMUyUKI15-9Rfp9VF30_hYOTqv_9lLj-7Wj0qGyR3p9cA5w'
 url_poster: ''
 url_project: ''
 url_slides: ''

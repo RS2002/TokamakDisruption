@@ -49,7 +49,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10688332'
 url_code: 'https://github.com/RS2002/PianoBart'
 url_dataset: ''
 url_poster: ''
