@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Labour Day Concert in Aoyin, Guangzhou
+     - title: Labour Day Concert in Aoyin, Guangzhou
         content: ''
         align: left
         background:
