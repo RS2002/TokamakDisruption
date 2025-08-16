@@ -18,22 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-     - title: Labour Day Concert in Aoyin, Guangzhou
+      - title: Labour Day Concert in Aoyin, Guangzhou
         content: ''
         align: left
         background:
           image:
             filename: 2025-05-01.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-     - title: Lingnan Pi Contest, Guangzhou
-        content: ''
-        align: left
-        background:
-          image:
-            filename: 2025-07-03.jpg
             filters:
               brightness: 0.7
           position: center
@@ -78,3 +68,4 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
+
