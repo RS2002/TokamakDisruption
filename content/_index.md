@@ -48,4 +48,13 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title: Visitors
+      subtitle: ''
+      text: |-
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pb6UOItfm1YHob9R7PgL4Gn8JFe1e6c4XLReD_TAajU"></script>
+    design:
+      columns: '1'
 ---
