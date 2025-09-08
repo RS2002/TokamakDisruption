@@ -1,22 +1,21 @@
 ---
-title: 'Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?'
+title: 'IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zijian (Longino) Zhao
   - Dian Jin
+  - Zijian (Longino) Zhao
   - Zijing Zhou
-  - Xiaoyu Zhang
 
 
 # Author notes (optional)
 author_notes:
 
 
-date: '2025-06-02T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2506.01482'
+date: '2025-09-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -46,9 +45,9 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2506.01482'
-url_code: 'https://github.com/RS2002/Skip-BART'
-url_dataset: 'https://huggingface.co/datasets/RS2002/RPMC-L2'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
