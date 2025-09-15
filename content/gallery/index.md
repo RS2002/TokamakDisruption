@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-     - title: Rock Ceremony Aoyin, Guangzhou
+      - title: Rock Ceremony Aoyin, Guangzhou
         content: ''
         align: left
         background:
           image:
-            filename: 2025-05-01.jpg
+            filename: 2025-09-13.jpg
             filters:
               brightness: 0.7
           position: center
