@@ -58,16 +58,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Performance in HKUST, Hong Kong
-        content: ''
-        align: left
-        background:
-          image:
-            filename: 2024-08-30-9.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
       
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
