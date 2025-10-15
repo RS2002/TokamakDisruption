@@ -4,6 +4,6 @@ date: 2025-02-22
 image:
   focal_point: 'top'
 
-url_video: 'https://www.bilibili.com/video/BV1EtPieNEWq/'
+url_video: 'https://www.bilibili.com/video/BV1gW4yzfEXK/'
 ---
 

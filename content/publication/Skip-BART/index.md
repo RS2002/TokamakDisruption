@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *under review*
 publication_short: In *under review*
 
-abstract: 
+abstract: Stage lighting is a vital component in live music performances, shaping an engaging experience for both musicians and audiences. In recent years, Automatic Stage Lighting Control (ASLC) has attracted growing interest due to the high costs of hiring or training professional lighting engineers. However, most existing ASLC solutions only classify music into limited categories and map them to predefined light patterns, resulting in formulaic and monotonous outcomes that lack rationality. To address this gap, this paper presents Skip-BART, an end-to-end model that directly learns from experienced lighting engineers and predict vivid, human-like stage lighting. To the best of our knowledge, this is the first work to conceptualize ASLC as a generative task rather than merely a classification problem. Our method adapts the BART model to take audio music as input and produce light hue and value (intensity) as output, incorporating a novel skip connection mechanism to enhance the relationship between music and light within the frame grid. To address the lack of available datasets, we create the first stage lighting dataset, along with several pre-training and transfer learning techniques to improve model training with limited data. We validate our method through both quantitative analysis and an human evaluation, demonstrating that Skip-BART outperforms conventional rule-based methods across all evaluation metrics and shows only a limited gap compared to real lighting engineers.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -53,7 +53,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://zijianzhao.netlify.app/projects/SkipBART.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

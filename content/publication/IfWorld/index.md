@@ -30,7 +30,7 @@ publication_types: ['1']
 publication: In *under review*
 publication_short: In *under review*
 
-abstract: 
+abstract: Counterfactual “what if” questions are increasingly relevant in both education, where structured exploration can help students reason across disciplinary boundaries, and in crisis governance, where transparent scenario planning supports preparedness and deliberation. Current approaches often remain fragmented because disciplinary silos use incompatible assumptions and metrics, and common large language model workflows such as single agent reasoning, tree search, or debate rarely transform vague prompts into structured and uncertainty aware scenarios. We introduce IfWorld, a multi-agent system designed for cross-disciplinary counterfactual and hypothetical scenario reasoning. IfWorld transforms vague propositions into actionable scenarios, orchestrates parallel domain experts (e.g., physics, materials chemistry, biology/ecology, medicine, sociology, economics, engineering, environment, politics), detects and reconciles conflicts, and generates structured, uncertainty-aware reports with measurable indicators for evaluation. Across diverse topics, IfWorld outperforms other baselines, demonstrating clearer cross-domain reasoning chains, explicit uncertainty modeling, and decision-oriented scenario structures. We envision applications in fostering educational “what-if” explorations and in supporting structured deliberation during public crises.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -45,7 +45,7 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://openreview.net/forum?id=BtwfpDb1OO'
 url_code: ''
 url_dataset: ''
 url_poster: ''
