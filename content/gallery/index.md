@@ -13,12 +13,22 @@ sections:
         align: center
         background:
           image:
-            filename: 2025-02-22-1.jpg
+            filename: 2025-10-26-1.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Rock Ceremony Aoyin, Guangzhou
+      - title: Midsummer Music Festival in AlsoLive, Foshan
+        content: ''
+        align: left
+        background:
+          image:
+            filename: 2025-10-26-2.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Rock Ceremony in Aoyin, Guangzhou
         content: ''
         align: left
         background:
