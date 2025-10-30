@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: 2025-10-26-2.jpg
+            filename: 2025-10-26.jpg
             filters:
               brightness: 0.7
           position: center
