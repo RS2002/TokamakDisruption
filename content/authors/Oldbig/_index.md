@@ -80,7 +80,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Members
+  - Alumnus
 ---
 
 Oldbig is a socially anxious and vegetable drum. Her points of confidence are often very abstract. For example, whenever she wants to show off that her double pedal is only 278 RMB, others always think she's going to brag that her double pedal speed is only 278bpm.
