@@ -92,4 +92,3 @@ Longino is a socially anxious singer and guitarist. He must rely on alcohol to l
 
 - Metal/Core: 霜冻前夜, 寄生前夜, 郁, 九宝, 萨满, 雪沉, 梦灵, 虚极, 黑麒, 冻结的月亮, 死因池, 噬湖, 由理生社, 醒山, 扭曲机器, 无端械斗, AK, 军械所, 唐朝, 春秋, 末裔, 紫环, Arch Enemy, Children of Bodom, Kalmah, Cradle of Filth, Nachblut, Architects, While She Sleeps, Whitecahpel, Bloodywood, Lamb of God, Suicide Silence, Slaughter To Prevail
 - Rock: 谢天笑, 梅卡德尔, 疯医, 假假條, 丝绒公路, 王宝与正午阳光, 地下婴儿, 盘古, 二手玫瑰
-
