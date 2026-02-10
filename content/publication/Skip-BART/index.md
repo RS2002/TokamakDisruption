@@ -46,10 +46,10 @@ featured: true
 # - name: 
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2506.01482'
+url_pdf: 'https://openreview.net/forum?id=a4Got6azjF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)'
 url_code: 'https://github.com/RS2002/Skip-BART'
 url_dataset: 'https://huggingface.co/datasets/RS2002/RPMC-L2'
-url_poster: ''
+url_poster: 'https://zijianzhao.netlify.app/projects/Skip_BART_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
