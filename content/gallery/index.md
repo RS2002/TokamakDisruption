@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+     - title: Joint Show in MAO, Guangzhou
+        content: ''
+        align: left
+        background:
+          image:
+            filename: 2026-04-09.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: Midsummer Music Festival in AlsoLive, Foshan
         content: ''
         align: left
