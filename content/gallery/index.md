@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-     - title: Joint Show in MAO, Guangzhou
+      - title: Joint Show in MAO, Guangzhou
         content: ''
         align: left
         background:
