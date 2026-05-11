@@ -18,12 +18,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title: Joint Show in HOU, Shenzhen
+        content: ''
+        align: left
+        background:
+          image:
+            filename: 2026-05-09.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: Joint Show in MAO, Guangzhou
         content: ''
         align: left
         background:
           image:
-            filename: 2026-04-09.jpg
+            filename: 2026-04-11.jpg
             filters:
               brightness: 0.7
           position: center

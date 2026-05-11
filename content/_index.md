@@ -12,7 +12,7 @@ sections:
       image:
         filename: logo4.jpg
       text: |
-        The Tokamak Disruption is a band from Hong Kong, formed in November 2024. We primarily focus on alternative metal while also incorporating elements from other music genres such as melodic death metal, metalcore, and punk. Our official social media can be found at <a href="https://music.163.com/#/artist?id=121679628">NetEase Cloud Music</a>, <a href="https://space.bilibili.com/3632304320678590?spm_id_from=333.1387">Bilibili</a>，<a href="https://wap.showstart.com/pages/site/artist/artist?id=9590620">Xiudong (ticket purchase)</a>, and <a href="https://rs2002.github.io/MusicPage/">Lyrics‌</a>.
+        The Tokamak Disruption is a band from Hong Kong, formed in November 2024. We primarily focus on alternative metal while also incorporating elements from other music genres such as melodic death metal, metalcore, and punk. Our official social media can be found at <a href="https://music.163.com/#/artist?id=121679628">NetEase Cloud Music</a>, <a href="https://www.xiaohongshu.com/user/profile/69c7ad8b0000000026002911?xsec_token=YBPYpmSgxfLw99BwKy7FkEVs8kmcfwUDeJOWjELF0o1KY=&xsec_source=app_share&xhsshare=&shareRedId=OD9FN0RJPEs2NzUyOTgwNjg5OTc2Pjc6&apptime=1778466139&share_id=28a86fececbd4a6f9f6992362930b87f&share_channel=wechat&wechatWid=b7d7a751a190c302b6fec849bf9072fe&wechatOrigin=menu">RedNote</a>, <a href="https://space.bilibili.com/3632304320678590?spm_id_from=333.1387">Bilibili</a>，<a href="https://wap.showstart.com/pages/site/artist/artist?id=9590620">Xiudong (ticket purchase)</a>, and <a href="https://rs2002.github.io/MusicPage/">Lyrics‌</a>.
   
   - block: hero
     content:
