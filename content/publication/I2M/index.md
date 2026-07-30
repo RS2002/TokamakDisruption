@@ -15,7 +15,7 @@ author_notes:
 
 
 date: '2026-06-16T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2509.22378'
+doi: 'https://doi.org/10.1145/3805622.3810723'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-09-26T00:00:00Z'
